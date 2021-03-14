@@ -1,1 +1,1 @@
-# Prayer times Projectgit init
+# Prayer times Project
